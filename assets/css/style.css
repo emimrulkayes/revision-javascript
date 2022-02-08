@@ -1,0 +1,18 @@
+body {
+    background: lightgray;
+}
+
+.container {
+    max-width: 1170px;
+    margin: 0 auto;
+}
+
+h1 {
+    color: blueviolet;
+    font-size: 50px;
+    text-align: center;
+}
+
+.event {
+    margin-bottom: 30px;
+}
